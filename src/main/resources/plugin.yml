@@ -1,0 +1,10 @@
+name: MobEarn
+description: MobEarn
+main: net.llamagames.MobEarn.MobEarn
+version: 1.0.0
+api: 1.0.0
+author: SchdowNVIDIA
+website: llama-games.net
+
+depend:
+  - EconomyAPI

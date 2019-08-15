@@ -1,0 +1,43 @@
+# You can add/remove mobs yourself if you know the networkid.
+
+# Placeholders: {MONEY}, {MOB}
+message: "You've earned ${MONEY} by killing {MOB}."
+# chat, popup, none
+message-type: "popup"
+
+mobs:
+  Chicken:
+    money: 0.5
+    networkid: 10
+  Cow:
+    money: 0.5
+    networkid: 11
+  Sheep:
+    money: 0.5
+    networkid: 13
+  Pig:
+    money: 0.5
+    networkid: 12
+  Parrot:
+    money: 1.0
+    networkid: 30
+# Monster
+  Slime:
+    money: 1.0
+    networkid: 37
+  Zombie:
+    money: 1.0
+    networkid: 32
+  Skeleton:
+    money: 2.0
+    networkid: 34
+  Creeper:
+    money: 3.5
+    networkid: 33
+  Spider:
+    money: 2.0
+    networkid: 35
+  Cave Spider:
+    money: 1.5
+    networkid: 40
+
