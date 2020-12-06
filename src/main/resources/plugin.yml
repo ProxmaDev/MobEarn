@@ -1,10 +1,8 @@
 name: MobEarn
-description: MobEarn
-main: net.llamagames.MobEarn.MobEarn
+description: Add-on for LlamaEconomy
+main: net.lldv.mobearn.MobEarn
 version: 1.0.0
 api: 1.0.0
-author: SchdowNVIDIA
-website: llama-games.net
-
+author: Proxma
 depend:
-  - EconomyAPI
+  - LlamaEconomy
